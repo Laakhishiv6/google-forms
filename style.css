@@ -1,0 +1,387 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #E6E6FA;
+    font-family: 'Roboto', sans-serif;
+}
+
+.box {
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.box1 {
+    width: 640px;
+    height: 470px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: normal;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 27px;
+}
+
+.box2 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    display: flex;
+    border-radius: 5px;
+    align-items: normal;
+    flex-direction: column;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box3 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    flex-direction: column;
+    display: flex;
+
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box4 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box5 {
+    width: 640px;
+    height: 190px;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box6 {
+    width: 640px;
+    height: 280px;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box7 {
+    width: 640px;
+    height: 350px;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box8 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    display: flex;
+    border-radius: 5px;
+    align-items: normal;
+    flex-direction: column;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box9 {
+    width: 640px;
+    height: 350px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: normal;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+    flex-direction: column;
+}
+
+.box10 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    display: flex;
+    border-radius: 5px;
+    align-items: normal;
+    flex-direction: column;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box11 {
+    width: 640px;
+    height: 320px;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+
+
+.box12 {
+    width: 640px;
+    height: 300px;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box13 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    flex-direction: column;
+    display: flex;
+
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box14 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    flex-direction: column;
+    display: flex;
+
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box15 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    flex-direction: column;
+    display: flex;
+
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box16 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    flex-direction: column;
+    display: flex;
+
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box17 {
+    width: 640px;
+    height: 130px;
+    background-color: white;
+    color: black;
+    flex-direction: column;
+    display: flex;
+
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    margin: 10px 0;
+    padding: 30px;
+}
+
+.box1>div.header {
+    grid-area: header;
+    text-align: left;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+
+.grey-email {
+    color: grey;
+    font-weight: bold;
+}
+
+
+.email-container {
+    display: flex;
+    align-items: center;
+
+    justify-content: space-between;
+
+}
+
+.email-container i {
+    margin-right: 10px;
+
+    font-size: 20px;
+
+}
+
+.email-container p {
+    margin: 0;
+
+    font-size: 16px;
+
+}
+
+.cloud-icon {
+    font-size: 30px;
+
+    margin-left: auto;
+
+}
+.required {
+    color: red;
+}
+
+
+@media (max-width: 768px) {
+
+    .box1,
+    .box2,
+    .box3,
+    .box4,
+    .box5,
+    .box6,
+    .box7,
+    .box8,
+    .box9,
+    .box10,
+    .box11,
+    .box12,
+    .box13,
+    .box14,
+    .box15,
+    .box16,
+    .box17 {
+        width: 90%;
+        padding: 20px;
+    }
+
+    h1,
+    h4,
+    p {
+        font-size: 1rem;
+    }
+
+    .box5 p,
+    .box6 p,
+    .box7 p,
+    .box9 p {
+        font-size: 0.9rem;
+    }
+
+    .email-container {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .email-container i {
+        margin-bottom: 10px;
+    }
+
+    .line {
+        height: 2px;
+    }
+}
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 0.8rem;
+    }
+
+    .fa-square-o {
+        font-size: 20px;
+    }
+}
+
