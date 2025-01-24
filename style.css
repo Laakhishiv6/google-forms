@@ -385,3 +385,32 @@ body {
     }
 }
 
+.responsive-list {
+    list-style-type: none;
+    padding: 0; 
+    margin: 0; 
+    font-family: Arial, sans-serif; 
+    font-size: 16px; 
+    line-height: 1.6; 
+}
+
+.responsive-list li {
+    margin-bottom: 10px; 
+    word-wrap: break-word;
+}
+
+.responsive-list a {
+    color: #007BFF; 
+    text-decoration: none; 
+    font-weight: bold; 
+}
+
+.responsive-list a:hover {
+    text-decoration: underline; 
+}
+
+@media (max-width: 768px) {
+    .responsive-list {
+        font-size: 14px; 
+    }
+}
